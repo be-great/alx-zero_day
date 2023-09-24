@@ -4,7 +4,7 @@ what is the different
 + Github :  GitHub is a web-based platform that hosts Git repositories in the cloud.
 
   | Task  | about |
-| -------- | -------- |
+| --- | --- |
 | 0. Create and setup your Git and GitHub account    | Create a repository alx-zero_day, create a [personal token][https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens] to access your repository on your local machine  |
 | 1. Repo-session    | Create a new directory called 0x03-git   |
 | 2. Coding fury road    | It’s time to code! , creating c and js files   |
