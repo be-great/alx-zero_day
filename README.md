@@ -1,4 +1,4 @@
-#Git and Github :-
+# Git and Github :-
 what is the different
 + Git    :  Git is a distributed version control system (DVCS) 
 + Github :  GitHub is a web-based platform that hosts Git repositories in the cloud.
